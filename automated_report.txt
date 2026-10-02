@@ -1,0 +1,48 @@
+============================================================
+   AUTOMATED SCRAPING & DATA INTELLIGENCE REPORT
+============================================================
+Generated At : 2026-10-02 22:12:12
+Report ID    : RPT-20261002221212
+Source File  : multipage_books_dataset.csv
+------------------------------------------------------------
+EXECUTIVE SUMMARY METRICS
+------------------------------------------------------------
+• Total Products Scraped : 60
+• Average Product Price  : £35.00
+• Price Range            : £12.84 - £57.31
+• 5-Star Rated Books     : 14 (23.33%)
+------------------------------------------------------------
+TOP 5-STAR RATED BOOKS (14 items)
+------------------------------------------------------------
+01. Sapiens: A Brief History of Humankind
+    Price: £54.23 | Catalog Page: 1 | Status: In stock
+02. Set Me Free
+    Price: £17.46 | Catalog Page: 1 | Status: In stock
+03. Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+    Price: £52.29 | Catalog Page: 1 | Status: In stock
+04. Rip it Up and Start Again
+    Price: £35.02 | Catalog Page: 1 | Status: In stock
+05. Chase Me (Paris Nights #2)
+    Price: £25.27 | Catalog Page: 2 | Status: In stock
+06. Black Dust
+    Price: £34.53 | Catalog Page: 2 | Status: In stock
+07. Worlds Elsewhere: Journeys Around Shakespeare’s Globe
+    Price: £40.30 | Catalog Page: 2 | Status: In stock
+08. The Four Agreements: A Practical Guide to Personal Freedom
+    Price: £17.66 | Catalog Page: 2 | Status: In stock
+09. The Elephant Tree
+    Price: £23.82 | Catalog Page: 2 | Status: In stock
+10. Sophie's World
+    Price: £15.94 | Catalog Page: 2 | Status: In stock
+11. Private Paris (Private #10)
+    Price: £47.61 | Catalog Page: 3 | Status: In stock
+12. #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.
+    Price: £23.11 | Catalog Page: 3 | Status: In stock
+13. We Love You, Charlie Freeman
+    Price: £50.27 | Catalog Page: 3 | Status: In stock
+14. Thirst
+    Price: £17.27 | Catalog Page: 3 | Status: In stock
+------------------------------------------------------------
+NOTIFICATION STATUS : DISPATCH READY
+ACTION REQUIRED     : None (Automated audit complete)
+============================================================
